@@ -1,0 +1,9 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Metals (Scala/VSCode related files)
+.metals/
+
+# Ignore other editor/project files if needed
+*.log
+
